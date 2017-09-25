@@ -31,12 +31,12 @@
   "devDependencies": {
     "buble": "^0.15.2",
     "jest": "^20.0.4",
-    "vue": "^2.3.3",
-    "vue-router": "^2.0.0",
-    "vuex": "^2.1.0"
+    "vue": "HerringtonDarkholme/vue#6091248c0edf7c19d594f4122057848496852856",
+    "vue-router": "ktsn/vue-router#adapt-new-typings",
+    "vuex": "vuejs/vuex#adapt-new-typings"
   },
   "peerDependencies": {
-    "vue-router": "^2.5.0",
-    "vuex": "^2.1.0"
+    "vue-router": "ktsn/vue-router#adapt-new-typings",
+    "vuex": "vuejs/vuex#adapt-new-typings"
   }
 }
